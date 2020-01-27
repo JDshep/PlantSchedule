@@ -1,0 +1,21 @@
+James Hanenburg     Dec2019
+Plant Schedule
+
+
+
+File List
+PlantSchedule.pro	this is the programs project file
+plant.cpp   Plant class for storage
+main.cpp    primary execution of logic and displays plant watering schedule to the console
+Apprentice_WeGrowInTandem_Data.json  Source file for list of plants and days apart from watering
+
+
+How to Run:
+
+This program was made using QT creator as a QT's console application - can be launchin the latest version of QT creater using the plantSchedule.pro file
+
+to run succsessfully the source files precise location should be replaced in the main file(line 27)
+
+the current date should be writtin in bot main(Line 88) and plant(Line 55) files. the get current date
+command seems to be inaccurate and due to lack of time I didnt get it working
+
